@@ -1,2 +1,2 @@
 # Note for viewers...
-The .jave and .class files are the primary files I've worked in.
+The .java and .class files are the primary files I've worked in.
