@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="499bc129-2433-422e-91ca-469768f32e1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hehftFan4KLYMoO9lqD6SH3w1G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestOffByOne.testEqualChars">
+    <configuration name="TestOffByOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByOne" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOffByOne.testEqualChars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByOne" />
+      <option name="METHOD_NAME" value="testEqualChars" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testIsPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testIsPalindromeComp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testIsPalindromeComp" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testWordToDeque" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testWordToDeque" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestOffByOne.testEqualChars" />
+        <item itemvalue="JUnit.TestPalindrome.testWordToDeque" />
+        <item itemvalue="JUnit.TestPalindrome.testIsPalindromeComp" />
+        <item itemvalue="JUnit.TestPalindrome.testIsPalindrome" />
+        <item itemvalue="JUnit.TestOffByOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="499bc129-2433-422e-91ca-469768f32e1d" name="Default Changelist" comment="" />
+      <created>1600377573065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600377573065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600490557946">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1600490557946" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1600836011745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600836011745" />
+    <state width="1398" height="263" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1600465652452" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1600501810450" />
+    <state width="637" height="237" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1600509754645" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600477617225" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1600836011741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600836011741" />
+    <state width="1398" height="263" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1600465652450" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1600501810447" />
+    <state width="637" height="237" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1600509754642" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1600477617223" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1600836011740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600836011740" />
+    <state width="1398" height="263" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1600465652449" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1600501810444" />
+    <state width="637" height="237" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1600509754641" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1600477617222" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1600836011743">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600836011743" />
+    <state width="1398" height="263" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1600465652451" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1600501810449" />
+    <state width="637" height="237" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1600509754643" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1600477617224" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1600836011749">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600836011749" />
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1600465652454" />
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1600500731553" />
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1600503488609" />
+    <state width="1398" height="263" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600490753199" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1600836011746">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600836011746" />
+    <state width="1398" height="263" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1600465652453" />
+    <state width="1398" height="263" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1600500731551" />
+    <state width="1398" height="263" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1600503488607" />
+    <state width="1398" height="263" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1600490753197" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1600836011746">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600836011746" />
+    <state width="1398" height="263" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1600465652453" />
+    <state width="1398" height="263" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1600500731551" />
+    <state width="1398" height="263" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1600503488606" />
+    <state width="1398" height="263" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1600490753195" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1600836011747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600836011747" />
+    <state width="1398" height="263" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1600465652454" />
+    <state width="1398" height="263" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1600500731552" />
+    <state width="1398" height="263" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1600503488608" />
+    <state width="1398" height="263" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1600490753198" />
+    <state x="221" y="23" width="1024" height="825" key="SettingsEditor" timestamp="1600487577612">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600393571983" />
+    <state x="221" y="23" width="1024" height="825" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1600487577612" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proj1b$TestPalindrome_testIsPalindrome.ic" NAME="TestPalindrome.testIsPalindrome Coverage Results" MODIFIED="1600498554826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
